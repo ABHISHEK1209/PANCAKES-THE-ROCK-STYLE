@@ -1,0 +1,12 @@
+
+
+
+num1=659
+
+num2=979
+
+
+sum=float(num1)+float(num2)
+
+
+print(sum)
